@@ -1,0 +1,26 @@
+{
+  "name": "tria",
+  "version": "1.0.0",
+  "description": "Tria is an effortless validation helper for verifying/validating forms on the client-side, and requests on the backend.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionware/tria.git"
+  },
+  "keywords": [
+    "validation",
+    "validate",
+    "laravel",
+    "package",
+    "library"
+  ],
+  "author": "Adedeji Stephen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ionware/tria/issues"
+  },
+  "homepage": "https://github.com/ionware/tria#readme"
+}
